@@ -55,7 +55,7 @@ body {
   .middle-container {
     margin: 100px 0;
   }
-  .sss{width: 10%;
+  .sss{width: 20%;
 height: auto;}
   .bottom-container {
     background-color: #66BFBF;
@@ -101,13 +101,13 @@ height: auto;}
   }
   
   .code-img {
-    width: 15%;
+    width: 25%;
     float: left;
     margin-right: 30px;
   }
   
   .chilli-img {
-    width: 30%;
+    width: 35%;
     float: right;
     margin-left: 30px;
   }
